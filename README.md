@@ -1,33 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=⚡+ATUL+JHA+⚡;SOFTWARE+ENGINEER;FULL+STACK+ARCHITECT;AI+%26+BLOCKCHAIN+DEVELOPER;FROM+IDEA+TO+REALITY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=✦+ATUL+JHA+✦;SOFTWARE+ENGINEER;FULL+STACK+ARCHITECT;AI+%26+BLOCKCHAIN+DEVELOPER;FROM+IDEA+TO+REALITY" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=C084FC&center=true&vCenter=true&width=500&lines=%3E_+System+Status%3A+Active;%3E_+Building+the+future...;%3E_+Code.+Create.+Innovate." alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=C084FC&center=true&vCenter=true&width=500&lines=%3E_+system_status%3A+ACTIVE;%3E_+building+the+future...;%3E_+code.+create.+innovate." alt="Subtitle" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:A855F7&height=3&section=header" width="100%">
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJlOXV0NnZqdzFmcjB6dDN2bGZxdHE0bTg4dTVwemdpMXc0YjZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-    </td>
-    <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=A855F7&center=true&vCenter=true&width=350&lines=%23+whoami;Engineer+%7C+Creator+%7C+Builder;Problem+Solver;Lifelong+Learner" alt="Whoami" />
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/atuljha-tech/atuljha-tech/output/github-contribution-grid-snake-dark.svg" width="400" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:A855F7&height=2&section=header" width="100%">
 </div>
+
 
 ## 💻 **SYSTEM.IDENTITY**
 
