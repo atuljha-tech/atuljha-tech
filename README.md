@@ -40,7 +40,7 @@ I'm a **Computer Science student** at Heritage Institute of Technology, Kolkata,
   <a href="https://github.com/Atuljha275-2203/lokey-secure">
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Atuljha275-2203&repo=lokey-secure&theme=radical&border_radius=12" />
   </a>
-  <a href="https://github.com/Atuljha275-2203/logistics-platform">
+  <a href="https://github.com/atuljha-tech/logistics-platform">
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Atuljha275-2203&repo=logistics-platform&theme=radical&border_radius=12" />
   </a>
 </p>
