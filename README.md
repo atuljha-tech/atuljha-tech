@@ -1,30 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=✦+ATUL+JHA+✦;SOFTWARE+ENGINEER;FULL+STACK+ARCHITECT;AI+%26+BLOCKCHAIN+DEVELOPER;FROM+IDEA+TO+REALITY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3500&pause=700&color=00FF88&center=true&vCenter=true&width=550&lines=%3E+whoami;%3E+Atul+Jha;%3E+engineer;%3E+full_stack.activate();%3E+ai_blockchain_init()" alt="Matrix" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=C084FC&center=true&vCenter=true&width=500&lines=%3E_+system_status%3A+ACTIVE;%3E_+building+the+future...;%3E_+code.+create.+innovate." alt="Subtitle" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:A855F7&height=2&section=header" width="100%">
-</div>
-
-
-## 💻 **SYSTEM.IDENTITY**
-
-```bash
-┌─────────────────────────────────────────────────────────────┐
-│  >>> ATUL JHA                                               │
-│  ├── role        : "Full Stack Developer & AI Enthusiast"  │
-│  ├── location    : "Kolkata, India"                        │
-│  ├── education   : "B.Tech CSE - Heritage Institute of Tech"│
-│  ├── focus       : ["Next.js", "TypeScript", "Python"]     │
-│  └── pursuit     : "Building the future with code"         │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ## 🚀 Tech Arsenal
 
@@ -45,29 +21,13 @@
 
 ## 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=atuljha-tech&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuljha-tech&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6" />
-    </td>
-    </tr>
-    <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=atuljha-tech&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6" />
-    </td>
-    </tr>
-</table>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atuljha-tech&theme=radical" width="90%" /> </p><table align="center"> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=atuljha-tech&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D0000&title_color=00FF88&icon_color=00B4D8&text_color=E9D5FF" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuljha-tech&layout=compact&hide_border=true&theme=radical&bg_color=0D0000&title_color=00FF88&text_color=E9D5FF" /> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atuljha-tech&theme=radical&hide_border=true&background=0D0000&stroke=00FF88&ring=00FF88&fire=00B4D8&currStreakLabel=00FF88&sideLabels=E9D5FF" /> </td> </tr> </table>
 
 ---
 
 ## 🏆 LeetCode Progress
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AtulJha_27?theme=dark&font=source_code_pro&ext=heatmap" height="200" />
-</p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/AtulJha_27?theme=dark&font=source_code_pro&ext=heatmap&border=0&bg=0D0000&color1=A855F7&color2=C084FC&color3=E9D5FF" height="220" /> </p>
 
 ---
 
