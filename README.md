@@ -34,38 +34,18 @@ I'm a **Computer Science student** at Heritage Institute of Technology, Kolkata,
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/atuljha-tech/lokey-secure">
-  </a>
-  <a href="https://github.com/atuljha-tech/logistics-platform">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/atuljha-tech/face-recognition">
-  </a>
-  <a href="https://github.com/atuljha-tech/habit-tracker">
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=atuljha-tech&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
+  <tr><img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" />
      </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuljha-tech&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6" />
+<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" />
      </td>
    </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=atuljha-tech&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6" />
+<img align="right" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding" />
      </td>
    </tr>
 </table>
