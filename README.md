@@ -20,7 +20,7 @@ I'm a **Computer Science student** at Heritage Institute of Technology, Kolkata,
 ## 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,py,fastapi,mongodb,postgres,git,github,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,py,fastapi,mongodb,postgres,git,github,vercel" />
 </p>
 
 | Category | Technologies |
