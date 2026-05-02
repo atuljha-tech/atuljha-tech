@@ -1,23 +1,46 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=500&lines=Atul+Jha;Full+Stack+Developer;AI%2FML+Enthusiast;Blockchain+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=⚡+ATUL+JHA+⚡;SOFTWARE+ENGINEER;FULL+STACK+ARCHITECT;AI+%26+BLOCKCHAIN+DEVELOPER;FROM+IDEA+TO+REALITY" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=C084FC&center=true&vCenter=true&width=500&lines=%3E_+System+Status%3A+Active;%3E_+Building+the+future...;%3E_+Code.+Create.+Innovate." alt="Subtitle" />
 </p>
 
 ---
 
-<img align="right" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:A855F7&height=3&section=header" width="100%">
+</div>
 
-# 💫 About Me
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJlOXV0NnZqdzFmcjB6dDN2bGZxdHE0bTg4dTVwemdpMXc0YjZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+    </td>
+    <td align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=A855F7&center=true&vCenter=true&width=350&lines=%23+whoami;Engineer+%7C+Creator+%7C+Builder;Problem+Solver;Lifelong+Learner" alt="Whoami" />
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/atuljha-tech/atuljha-tech/output/github-contribution-grid-snake-dark.svg" width="400" />
+    </td>
+  </tr>
+</table>
 
-I'm a **Computer Science student** at Heritage Institute of Technology, Kolkata, turning ideas into production-ready applications.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:A855F7&height=2&section=header" width="100%">
+</div>
 
-- 🔭 Currently building **AI-integrated tools** and **full-stack platforms**
-- 🌱 Deep diving into **Agentic AI** and **Blockchain development**
-- 👯 Looking to collaborate on **open-source AI projects**
-- 💬 Ask me about **Next.js, TypeScript, Python, or Web3**
-- 📫 Reach me: **atuljha275@gmail.com**
-- 🌐 Portfolio: [atuljhaportfolio-delta.vercel.app](https://atuljhaportfolio-delta.vercel.app)
+## 💻 **SYSTEM.IDENTITY**
 
----
+```bash
+┌─────────────────────────────────────────────────────────────┐
+│  >>> ATUL JHA                                               │
+│  ├── role        : "Full Stack Developer & AI Enthusiast"  │
+│  ├── location    : "Kolkata, India"                        │
+│  ├── education   : "B.Tech CSE - Heritage Institute of Tech"│
+│  ├── focus       : ["Next.js", "TypeScript", "Python"]     │
+│  └── pursuit     : "Building the future with code"         │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ## 🚀 Tech Arsenal
 
