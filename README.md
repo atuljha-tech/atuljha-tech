@@ -13,7 +13,7 @@ I'm a **Computer Science student** at Heritage Institute of Technology, Kolkata,
 - 👯 Looking to collaborate on **open-source AI projects**
 - 💬 Ask me about **Next.js, TypeScript, Python, or Web3**
 - 📫 Reach me: **atuljha275@gmail.com**
-- 🌐 Portfolio: [atuljhaportfolio.vercel.app](https://atuljhaportfolio.vercel.app)
+- 🌐 Portfolio: [atuljhaportfolio-delta.vercel.app](https://atuljhaportfolio-delta.vercel.app)
 
 ---
 
@@ -37,20 +37,16 @@ I'm a **Computer Science student** at Heritage Institute of Technology, Kolkata,
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Atuljha275-2203/lokey-secure">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Atuljha275-2203&repo=lokey-secure&theme=radical&border_radius=12" />
+  <a href="https://github.com/atuljha-tech/lokey-secure">
   </a>
-  <a href="https://github.com/Atuljha275-2203/logistics-platform">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Atuljha275-2203&repo=logistics-platform&theme=radical&border_radius=12" />
+  <a href="https://github.com/atuljha-tech/logistics-platform">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Atuljha275-2203/face-recognition">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Atuljha275-2203&repo=face-recognition&theme=radical&border_radius=12" />
+  <a href="https://github.com/atuljha-tech/face-recognition">
   </a>
-  <a href="https://github.com/Atuljha275-2203/habit-tracker">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Atuljha275-2203&repo=habit-tracker&theme=radical&border_radius=12" />
+  <a href="https://github.com/atuljha-tech/habit-tracker">
   </a>
 </p>
 
@@ -61,17 +57,17 @@ I'm a **Computer Science student** at Heritage Institute of Technology, Kolkata,
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Atuljha275-2203&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
-    </td>
+      <img src="https://github-readme-stats.vercel.app/api?username=atuljha-tech&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
+     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atuljha275-2203&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6" />
-    </td>
-  </tr>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuljha-tech&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=3B82F6" />
+     </td>
+   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atuljha275-2203&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6" />
-    </td>
-  </tr>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=atuljha-tech&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6" />
+     </td>
+   </tr>
 </table>
 
 ---
@@ -93,7 +89,7 @@ I'm a **Computer Science student** at Heritage Institute of Technology, Kolkata,
   <a href="https://twitter.com/atuljha275">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://atuljhaportfolio.vercel.app">
+  <a href="https://atuljhaportfolio-delta.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:atuljha275@gmail.com">
@@ -102,5 +98,5 @@ I'm a **Computer Science student** at Heritage Institute of Technology, Kolkata,
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atuljha275-2203&label=Profile%20Views&color=3B82F6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=atuljha-tech&label=Profile%20Views&color=3B82F6&style=flat-square" />
 </p>
