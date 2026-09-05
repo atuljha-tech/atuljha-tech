@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=700&color=00FF88&center=true&vCenter=true&width=550&lines=%3E+whoami;%3E+Atul+Jha;%3E+engineer;%3E+full_stack.activate();%3E+ai_blockchain_init()" alt="Typing Animation" />
 </p>
-
-<h1 align="center">⚡ Atul Jha ⚡</h1>
-<p align="center">
   <em>Full-Stack Developer · AI Enthusiast · Blockchain Explorer</em>
 </p>
 
